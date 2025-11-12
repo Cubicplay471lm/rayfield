@@ -1,1 +1,1 @@
-# rayfield
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cubicplay471lm/rayfield/refs/heads/main/obf.lua"))()
